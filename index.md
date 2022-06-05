@@ -1,5 +1,5 @@
-<center> HI!!!! My name is crystal!!!
-<center><p>I am a 13 y/o trans woman from Moscow, Russia!!!</p>
-<center>My social media!!!:
+<center><FONT COLOR=pink SIZE=5> HI!!!! My name is crystal!!!
+<center><p><FONT COLOR=pink SIZE=5>I am a 13 y/o trans woman from Moscow, Russia!!!</p>
+<center><FONT COLOR=pink SIZE=5>My social media!!!:
 <center><a href="https://www.youtube.com/channel/UCdGPGgdSQgr9iy0EyKyRSiQ">My YouTube!!!!</a>
-<center><p>Discord: crystalblankie#2035</p>
+<center><p><FONT COLOR=pink SIZE=5>Discord: crystalblankie#2035</p>
